@@ -1,0 +1,4 @@
+In this project I tried to scrap a Book from a website that requires ID and Login, So I followed these steps:
+- Install chrome Driver 
+- Coding of the webdriver as the element of login (Selenium) 
+- Take screenshots of pages and put it into PDF file (PIL and fpdf)
